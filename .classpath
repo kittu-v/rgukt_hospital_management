@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/kittu/Desktop/new thumb/mysql-connector-java-5.1.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kittu/Desktop/project/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kittu/Desktop/new thumb/gwt-timepicker-0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kittu/Desktop/new thumb/rs2xml.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
